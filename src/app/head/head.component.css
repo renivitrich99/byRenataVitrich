@@ -1,0 +1,25 @@
+h2{
+    margin: 0 auto;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    margin-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+ul {
+    margin: 0 auto;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+li {
+    display: inline-block;
+    color: white;   
+}
+
+a {
+    color:black;
+}
